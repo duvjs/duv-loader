@@ -1,6 +1,6 @@
 {
   "name": "duv-loader",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Duv single-file component loader for Webpack",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
