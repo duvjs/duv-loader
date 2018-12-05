@@ -1,6 +1,6 @@
 {
   "name": "duv-loader",
-  "version": "0.1.5",
+  "version": "0.1.8",
   "description": "Duv single-file component loader for Webpack",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -39,6 +39,7 @@
     "@vue/component-compiler-utils": "^2.0.0",
     "babel-core": "^6.26.3",
     "babelon": "^1.0.5",
+    "duv-api-util": "^0.0.2",
     "duv-template-compiler": "^0.1.1",
     "hash-sum": "^1.0.2",
     "js-beautify": "^1.8.8",
